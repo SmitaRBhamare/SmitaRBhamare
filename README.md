@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smita Ramdas Bhamare.
 - 👀 I’m interested in Devoloping software and appilcation
-- 🌱 I’m currently learning c, c++, java
+- 🌱 I’m currently learning c, c++, java, javasript, ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
